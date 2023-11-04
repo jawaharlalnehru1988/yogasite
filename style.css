@@ -1,0 +1,435 @@
+body{
+    margin: 0px;
+}
+.loginbutton{
+    padding: 20px;
+    border: 1px solid #4372b8;
+    color: #4372b8;
+    padding: 10px 30px 10px 30px;
+    border-radius: 0px 27px 27px 27px;
+}
+.loginbutton:hover{
+    background-color: #4372b8;
+    color: white;
+}
+.nav-link{
+    padding-right: 60px !important;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.ccolor{
+    color: #4372b8;
+}
+.headerimg{
+width: 100%;
+}
+.mart30{
+    margin-top: 30px;
+}
+.marb50{
+    margin-bottom: 50px;
+}
+.contmart100{
+    margin-top: 100px;
+}
+.experience{
+    font-size: 66px;
+}
+.card img{
+    width: 30%;
+}
+.card{
+    align-items: center;
+    border: none;
+}
+.card:hover{
+    box-shadow: 0px 0px 15px rgb(234, 229, 229);
+}
+.secondbox{
+    margin-top: 20px !important;
+}
+.yogpos{
+    width: 100% !important;
+    border-radius: 15px;
+}
+.social-logo{
+    flex-direction: row;
+    justify-content: center;
+}
+.facebook, .youtube, .twitter{
+    width: 15% !important;
+}
+.carousalbg{
+    background-color: #352015;
+}
+.coroimg{
+    width:30% ;
+    border-radius: 50%;
+}
+.fivestar{
+    width: 10em;
+}
+.marb30{
+    margin-bottom: 30px;
+}
+.fivestardown{
+    width: 100px !important;
+}
+.book{
+    font-size: 14px;
+}
+.yogacard{
+    margin-left: 1px !important;
+    width: 20em;
+    position: relative;
+    top: -64px;
+    background-color: white;
+    box-shadow: 0px 0px 15px rgb(234, 229, 229);
+}
+.dated{
+    background-color: #4372b8;
+    color: white;
+    text-align: center;
+    padding: 43px 13px 52px 15px;
+    margin: 23px 0px 94px 0px;
+    font-size: 25px;
+}
+.occurance1{
+    background-color: rgb(247 247 247);
+    width: 98%;
+}
+.occurance2{
+    background-color: rgb(247 247 247);
+    width: 98%;
+}
+.bgblue{
+    background-color: #4372b8;
+    height: 16em;
+    border-radius: 10px;
+}
+form{
+    align-items: center;
+}
+.newsletter{
+    margin-top: 100px;
+}
+.subscribe1{
+    border: 1px solid white;
+    padding: 23px 25px 20px 25px;
+
+}
+.subscribe{
+    font-size: 30px;
+}
+.form-control{
+    line-height: 3.5rem;
+}
+.paddding{
+    padding-top: 25px;
+}
+.footerbg{
+    background-color: #070707;
+    border-top: 1px solid white;
+
+}
+.text-reset{
+    text-decoration: none;
+}
+.img-section{
+    padding-right: 17px;
+}
+.socialmedia{
+    width: 30px;
+}
+.loginbutton1{
+    background-color: #4372b8;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 50px 10px 50px;
+}
+.inputtype{
+    padding: 8px 20px 8px 20px;
+    border-radius: 5px;
+    border: 0px;
+
+}
+.carousel-caption h5{
+font-size: 30px;
+}
+.carousel-caption p{
+    font-size: 22px;
+    }
+@media (min-width:220px) and (max-width: 320px) {
+    .experience {
+        font-size: 50px;
+    }
+    .loginbutton{
+        margin-right: 16px;
+    }
+    .carousel{
+        display: none;
+    }
+    .social-icon{
+        display: flex;
+        justify-content: center !important;
+    }
+    .newsletter {
+        margin-top: 0px;
+    }
+    .occurance1, .occurance2{
+        margin-left: 3px;
+    margin-bottom: 19px;
+    }
+    .dated{
+        margin: 23px 0px 18px 0px;
+    }
+    .textdate h2{
+        font-size: 22px;
+    }
+    form label{
+        font-size: 25px;
+    }
+    .headerimg{
+        margin-top: 36px;
+    }   
+    .loginbutton {
+        border: 1px solid #4372b8;
+        color: #4372b8;
+        padding: 6px 13px 6px 13px !important;
+        border-radius: 0px 27px 27px 27px;
+        font-size: 14px;
+    }
+    .contmart100 {
+        margin-top: 36px;
+    }
+    .facebook, .youtube, .twitter {
+        width: 23% !important;
+    }
+    .whatmsg{
+        font-size: 12px;
+    }
+    .yogacard{
+        width: 17em;
+        top: 0px;
+    }
+    .subscribe1 {
+        border: 1px solid white;
+        padding: 9px 13px 9px 13px;
+    }
+    .form-control {
+        line-height: 2.0rem;
+    }
+    .dated {
+        margin: 0px 0px 0px 0px;
+    }
+}
+@media (min-width:321px) and (max-width: 460px) {
+ .experience {
+        font-size: 50px;
+    }
+    .loginbutton{
+        margin-right: 16px;
+    }
+    .carousel{
+        display: none;
+    }
+    .social-icon{
+        display: flex;
+        justify-content: center !important;
+    }
+    .newsletter {
+        margin-top: 0px;
+    }
+    .occurance1, .occurance2{
+        margin-left: 3px;
+    margin-bottom: 19px;
+    }
+    .dated{
+        margin: 23px 0px 18px 0px;
+    }
+    .textdate h2{
+        font-size: 22px;
+    }
+    form label{
+        font-size: 25px;
+    }
+    .headerimg{
+        margin-top: 36px;
+    }
+}
+@media (min-width:461px) and (max-width: 576px) {
+    .headerimg{
+        margin-top: 36px;
+    }
+    .loginbutton{
+        margin-right: 59px;
+        margin-left: 33px;
+    }
+    .carousel{
+        display: none;
+    }
+    .yogacard{
+        width: 32em;
+        top: 0px;
+        background-color: #faf6f6;
+    }
+    .occurance1, .occurance2{
+     margin-left: 3px;
+     margin-bottom: 19px;
+    }
+    .newsletter {
+        margin-top: 14px;
+    }
+    .occurance1{
+        margin: 10px 0px 3px 0px;
+    }
+    .occurance2{
+        margin: 10px 0px 3px 0px;
+    }
+    .dated{
+        margin: 10px 0px 3px 0px;
+    }
+    .social-icon{
+        display: flex;
+        justify-content: center !important;
+    }
+}
+@media (min-width:577px) and (max-width: 768px) {
+    .experience {
+        font-size: 30px;
+    }  
+    .mart30 {
+        margin-top: 15px;
+    }
+    .secondtext{
+        font-size: 12px;
+    }
+    .whatmsg{
+        font-size: 15px !important;
+    }
+    .explore, .allevent{
+        margin-top: 30px !important;
+    }
+    .secondbox p{
+        font-size: 12px;
+    }
+    .secondpost{
+        margin-top: 26px;
+    }
+    .dated{
+        margin: 23px 0px 18px 0px;
+    }
+    .facebook, .youtube, .twitter {
+        width: 26% !important;
+    }
+    .marb50 {
+        margin-bottom: 20px !important;
+    }
+    .carousel-caption p {
+        font-size: 14px;
+    }
+    .yogacard{
+        width: 14em;
+        top: 10px;
+    }
+    .textdate h2{
+        font-size: 20px;
+    }
+    .textdate h1{
+        font-size: 24px !important;
+    }
+    .newsletter {
+        margin-top: 20px;
+    }  
+}
+@media (min-width:769px) and (max-width: 992px) {
+    .experience {
+        font-size: 30px;
+    }  
+    .mart30 {
+        margin-top: 15px;
+    }
+    .secondtext{
+        font-size: 12px;
+    }
+    .whatmsg{
+        font-size: 15px !important;
+    }
+    .explore, .allevent{
+        margin-top: 30px !important;
+    }
+    .secondbox p{
+        font-size: 12px;
+    }
+    .secondpost{
+        margin-top: 26px;
+    }
+    .dated{
+        margin: 23px 0px 18px 0px;
+    }
+    .facebook, .youtube, .twitter {
+        width: 26% !important;
+    }
+    .marb50 {
+        margin-bottom: 20px !important;
+    }
+    .carousel-caption p {
+        font-size: 14px;
+    }
+    .yogacard{
+        width: 14em;
+        top: 10px;
+    }
+    .textdate h2{
+        font-size: 20px;
+    }
+    .textdate h1{
+        font-size: 24px !important;
+    }
+    .newsletter {
+        margin-top: 20px;
+    }
+}
+@media (min-width:993px) and (max-width: 1200px) {
+    .experience {
+        font-size: 45px;
+    }
+    .secondtext{
+        font-size: 15px !important;
+    }
+    .mart30 {
+        margin-top: 18px;
+    }
+    .facebook, .youtube, .twitter {
+        width: 21% !important;
+    }
+    .carousel-caption p {
+        font-size: 14px;
+    }
+    .dated{
+        margin-bottom: 8em;
+        font-size: 19px;
+    }
+    .textdate h1{
+        font-size: 30px;
+    }
+    .textdate h2{
+        font-size: 22px;
+    }
+    .Lorem{
+        font-size: 13px;
+    }
+
+}
+@media (min-width:1201px) and (max-width: 1400px) {
+    .experience {
+        font-size: 48px;
+    }
+    .dated{
+        margin-bottom: 9em;
+    }
+}
+@media (min-width:1401px)  {
+    
+}
